@@ -1,0 +1,6 @@
+.country-container{
+    border-radius: 20px;
+    border: 2px solid red;
+    padding: 5px 10px;
+    background-color: azure;
+}
